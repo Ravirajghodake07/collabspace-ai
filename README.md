@@ -328,29 +328,6 @@ POST /api/ai
 
 # 📸 Screenshots
 
-Create a folder
-
-```
-screenshots/
-```
-
-and add
-
-```
-login.png
-
-dashboard.png
-
-workspace.png
-
-editor.png
-
-ai.png
-
-profile.png
-```
-
-Then replace the section below.
 
 ## Login
 
