@@ -331,39 +331,27 @@ POST /api/ai
 
 ## Login
 
-```markdown
 ![Login](screenshots/login.png)
-```
 
 ## Dashboard
 
-```markdown
 ![Dashboard](screenshots/dashboard.png)
-```
 
 ## Workspace
 
-```markdown
 ![Workspace](screenshots/workspace.png)
-```
 
 ## Document Editor
 
-```markdown
 ![Editor](screenshots/editor.png)
-```
 
 ## AI Copilot
 
-```markdown
 ![AI](screenshots/ai.png)
-```
 
 ## Profile
 
-```markdown
 ![Profile](screenshots/profile.png)
-```
 
 ---
 
